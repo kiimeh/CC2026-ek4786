@@ -2,7 +2,7 @@
 // this is the only part of the file you need to edit!
 
 const quotes = [
-  { text: "is a process, based on exploration, iteration, reflection and discovery, <br> where code is used as the primary medium to create a wide range of media artifacts.", source: "Tim Rodenbröker" },
+  { text: "is a process, based on exploration, iteration, reflection and discovery, where code is used as the primary medium to create a wide range of media artifacts.", source: "Tim Rodenbröker" },
   { text: "is the practice of making art with code.", source: "Andrew Bryant" },
   { text: "is a new interdisciplinary art form that bridges the gap between technologists and artists.", source: "Ahmad Moussa" },
   { text: "is a loosely defined term used to describe a wide range of artistic practices that use computer code as a medium.", source: "Raphael de Courville" },
