@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="sketch.js"></script>
+  <title>Sketch Name</title> <!--Update your title here-->
+  <!--Add style to your code within the style tag <style></style>
+  Read the W3Schools CSS Intro for more: https://www.w3schools.com/css/css_intro.asp 
+  -->
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2em;
+      /*padding: 1em;*/
+      color: #000000;
+      background-color: #f0f0f0;
+    }
+
+    a {
+      color: rgb(150,0,255);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: dashed;
+    }
+
+    h1 {
+      color: #4287f5;
+    }
+
+    h3 {
+      color: #2a3582;
+    }
+  </style>
+</head>
+
+<body>
+    <h1>Light to Dark</h1>
+    <p>My initial drawing shows a progressive movement from small, light circles to enlarged, dark patterns that ultimately merge as they reach the bottom of the canvas. Inspired by Vera Molnar and Yayoi Kusama, I wanted to work with a familiar shape circle, to create a pattern with a surprising contrast. Inspired by Kusama’s signature color palette, I started with subtle lines and soft tones, gradually building up their intensity until they merged at the bottom.</p>
+    
+    <p>Using the p5.Polar library turned out to be a really interesting experience. I initially forgot that p5.Polar is inherently designed for creating circular patterns, so seeing the final result after applying it to my drawing was quite a surprise yet I actually loved the outcome! It still managed to capture the core idea of my original sketch, where subtle, soft tones progressively intensify and become strong. Moreover, it drastically reduced the number of lines of code compared to my initial version, making it somewhat easy to achieve that expression by just tweaking a few lines of code (although it was hard to figure out which line of code I had to tweak...!).</p>
+      
+    <p>I also noticed its limitations... relying solely on the p5.Polar library restricts you strictly to circular or radial patterns, making it less flexible if you want to explore other types of shapes or patterns. However, combining the library with for loops creates a powerful synergy, far more efficient than figuring out everything through a tedious 'brute force' method. Once you grasp the logic, I know it will significantly save time and streamline the coding process. With this assignment, using for loops and the library together allowed me to experiment with patterns dynamically, which a 'brute force' method could never account for.</p>
+    <ul>
+    <li><a href="./initialSketch/index.html" target="_blank">Link to initial sketch</a></li>
+    <br>
+    <li><a href="./p5PolarSketch/index.html" target="_blank">Link to sketch featuring p5.Polar</a></li>
+    </ul>
+
+  <!-- Optional, share as needed-->
+   <h3>Resources</h3>
+   <ul>
+    <li><a href="https://github.com/liz-peng/p5.Polar" target="_blank">p5.Polar library</a></li>
+    <li><a href="http://www.veramolnar.com/" target="_blank">Vera Molnar art piece</a></li>
+    <li><a href="https://www.serpentinegalleries.org/about/press/serpentine-to-unveil-large-scale-public-sculpture-by-yayoi-kusama/" target="_blank">Yayoi Kusama Pumpkin </a></li>
+    <li><a href="https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr" target="_blank">Melody's sketch </a></li>
+   </ul>
+  
+    <!--Replace with your own image-->
+    <!--You can limit the size of your displayed image using "height" or "width" -->
+    <img src="media/week3_img.jpg" height="400px" alt="This the alt description of this image. This is a picture of a cat."></img>
+</body>
+</html>
