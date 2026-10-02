@@ -42,8 +42,8 @@ function draw(){
 function myDrawing() {
   push();
 
-  // 1.make it center
-  setCenter(width / 2, height / 2);
+  // 1.make it center-polar library
+  setCenter(width/2, height/2);
 
   // 2. button clicks random
   let numEllipses = random(8, 12);       
