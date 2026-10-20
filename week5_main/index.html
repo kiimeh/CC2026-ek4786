@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- p5.js Libraries -->
+  <script src="p5.js"></script>
+  <script src="p5.sound.min.js"></script>
+  <title>Animation</title> <!--Update your title here-->
+  <!--Add style to your code within the style tag <style></style>
+  Read the W3Schools CSS Intro for more: https://www.w3schools.com/css/css_intro.asp 
+  -->
+  <style>
+    body {
+      font-family:'Trebuchet MS', sans-serif;
+      margin: 2em;
+      /*padding: 1em;*/
+      color: #4287f5;
+      background-color: #f0f0f0;
+    }
+
+    p{
+      color:#283c5c;
+    }
+
+    .button {    
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #6434eb;
+      color: white;
+      text-decoration: none;
+      border-radius: 15px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      color: #4287f5;/* Insert your own style here */
+    }
+
+    h2 {
+      color:#324ca8;/* Insert your own style here */
+    }
+
+
+    a{
+      color: #4287f5;
+      padding-bottom: 15px;
+    }
+  </style>
+
+<body>
+  
+  <h1>Layers of Memory</h1>
+
+        <h2>Week 5</h2>
+
+        <!-- Your Week 5 Sketch -->
+        <!-- Review tutorial for more info: https://github.com/processing/p5.js/wiki/Positioning-your-canvas -->
+        <div id="week5-sketch">
+          <script src="week5/sketch.js"></script>
+        </div>
+
+        <p>Layers of Memory is a generative digital clock that visualizes time through accumulating translucent shapes. Instead of just showing standard digital numbers, I wanted to turn the passage of time into a soft, ambient visual experience. As hours go by, colorful rectangular layers stack on top of each other, slowly building up a visual record of the day that feels almost like geological layers of personal memory.</p>
+
+        <p>The sketch checks the current hour using hour() and adds a new translucent rectangle to the screen every hour. This means the number of stacked layers directly corresponds to the time, so at 10am there are 10 layers, and by 11pm (23:00) there are 23 layers stacked together. Since the older shapes stay visible underneath, the screen naturally gets richer and more layered as the day goes on. To reflect the changing mood of the day, the colors smoothly shift through three main phases using map() and lerpColor(), starting with light pastel blues and yellows in the morning (6am to 12pm), moving into warm cream and apricot tones in the afternoon (12pm to 6pm), and settling into quiet indigo and charcoal shades over a dark background at night (6pm after).</p>
+
+        <p>I also wanted the visuals to feel subtle and alive rather than static. When a new hour arrives, the shape doesn't just pop up...it smoothly grows from size zero using lerp(), while all the layers float gently up and down with a slow wave motion using (sin()). On top of that, a tiny warm light particle appears every second (second()). To achieve a soft pulse effect, I created a custom variable called sparkleAlpha that resets to a bright value each second and continuously decreases frame by frame (sparkleAlpha - 5). This constant fade-out effect creates a delicate visual trail, reminding us of the quiet rhythm of passing seconds.</p>
+        <ul>
+        <li><a href="week5/index.html" target="_blank">Link to sketch</a></li>
+        </ul>
+
+      <!-- Optional, share as needed-->
+      <h2>Resources</h2>
+      <ul>
+        <li><a href="https://p5js.org/reference/p5/Array/" target="_blank">Array</a></li>
+        <li><a href="https://www.youtube.com/watch?v=VIQoUghHSxU" target="_blank">What is an array?</a></li>
+        <li><a href="https://www.youtube.com/watch?v=RXWO3mFuW-I" target="_blank">Arrays and Loops</a></li>
+        <li><a href="https://p5js.org/reference/p5/lerp/" target="_blank">Lerp</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Ly5XiMxOcv8" target="_blank">Changing Size of Array</a></li>
+        <li><a href="https://www.youtube.com/watch?v=fBqaA7zRO58" target="_blank">Arrays of Objects</a></li>
+        <li><a href="https://p5js.org/examples/Calculating-Values-Clock/" target="_blank">Clock</a></li>
+        <li><a href="https://www.youtube.com/watch?v=3Aa8CzklS6c" target="_blank">p5.js Coding Tutorial | Clock</a></li>
+        <li><a href="https://www.youtube.com/watch?v=E4RyStef-gY" target="_blank">Coding Challenge: Clock with p5.js</a></li>
+      </ul>
+      
+        <!--Replace with your own image(s)-->
+        <!--You can limit the size of your displayed image using "height" or "width" -->
+        <!-- <img src="media/image.jpg" height="400px" alt="This the alt description of this image. This is a picture of a cat."></img> -->
+
+</body>
+</html>
