@@ -17,7 +17,7 @@ let sparkleAlpha = 0;
 let lastSecond = -1;
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(400, 400);
 
   noStroke();
   rectMode(CENTER);
