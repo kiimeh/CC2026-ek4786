@@ -1,0 +1,405 @@
+<!-- myOutput_9302026_12345.svg -->
+<!-- Generated using p5.js v.2.3.1 and p5.plotSvg v.0.3.0: -->
+<!-- A Plotter-Oriented SVG Exporter for p5.js -->
+<!-- Wed Sep 30 2026 09:57:58 GMT-0400 (Eastern Daylight Time) -->
+<!-- DPI: 96 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" inkscape:version="1.4" width="6.197916666666667in" height="8.020833333333334in" viewBox="0 0 595 770">
+  <style>
+      circle, ellipse, line, path, polygon, polyline, rect, quad, text {
+        fill: none;
+        stroke: black;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        vector-effect: non-scaling-stroke;
+      }
+    </style>
+<g>
+  <g transform="translate(297.500000, 385)">
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--000000c6" inkscape:groupmode="layer" inkscape:label="1_stroke-color-group--000000c6"><ellipse cx="0" cy="0" rx="20.4384" ry="40.8769" style="stroke:#000000c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(8.510580, -8.646661)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(12.130856, -0.192441)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(8.780565, 8.372358)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0.384833, 12.126278)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-8.232030, 8.912261)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-12.118648, 0.577129)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-9.041714, -8.089630)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-0.769279, -12.107969)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--221902c6" inkscape:groupmode="layer" inkscape:label="2_stroke-color-group--221902c6"><ellipse cx="0" cy="0" rx="26.4384" ry="52.8769" style="stroke:#221902c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(17.021160, -17.293321)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(24.261713, -0.384882)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(17.561131, 16.744716)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(0.769666, 24.252556)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-16.464060, 17.824522)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-24.237296, 1.154258)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-18.083428, -16.179260)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-1.538558, -24.215939)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--443305c6" inkscape:groupmode="layer" inkscape:label="3_stroke-color-group--443305c6"><ellipse cx="0" cy="0" rx="32.4384" ry="64.8769" style="stroke:#443305c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(25.531740, -25.939982)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(36.392569, -0.577322)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(26.341696, 25.117075)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(1.154500, 36.378834)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-24.696089, 26.736783)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-36.355945, 1.731386)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-27.125143, -24.268890)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-2.307837, -36.323908)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--664d08c6" inkscape:groupmode="layer" inkscape:label="4_stroke-color-group--664d08c6"><ellipse cx="0" cy="0" rx="38.4384" ry="76.8769" style="stroke:#664d08c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(34.042320, -34.586642)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(48.523426, -0.769763)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(35.122262, 33.489433)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(1.539333, 48.505112)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-32.928119, 35.649044)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-48.474593, 2.308515)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-36.166857, -32.358521)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-3.077116, -48.431877)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--89660bc6" inkscape:groupmode="layer" inkscape:label="5_stroke-color-group--89660bc6"><ellipse cx="0" cy="0" rx="44.4384" ry="88.8769" style="stroke:#89660bc6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(42.552900, -43.233303)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(60.654282, -0.962204)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(43.902827, 41.861791)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(1.924166, 60.631389)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-41.160149, 44.561305)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-60.593241, 2.885644)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-45.208571, -40.448151)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-3.846396, -60.539847)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--ab800ec6" inkscape:groupmode="layer" inkscape:label="6_stroke-color-group--ab800ec6"><ellipse cx="0" cy="0" rx="50.4384" ry="100.8769" style="stroke:#ab800ec6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(51.063480, -51.879963)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(72.785139, -1.154645)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(52.683393, 50.234149)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(2.308999, 72.757667)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-49.392179, 53.473566)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-72.711889, 3.462773)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-54.250285, -48.537781)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-4.615675, -72.647816)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--cd9a11c6" inkscape:groupmode="layer" inkscape:label="7_stroke-color-group--cd9a11c6"><ellipse cx="0" cy="0" rx="56.4384" ry="112.8769" style="stroke:#cd9a11c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(59.574061, -60.526624)">
+        <g transform="rotate(44.545575)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(84.915995, -1.347086)">
+        <g transform="rotate(89.091151)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(61.463958, 58.606508)">
+        <g transform="rotate(133.636726)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(2.693832, 84.883945)">
+        <g transform="rotate(178.182301)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-57.624209, 62.385827)">
+        <g transform="rotate(222.727877)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-84.830537, 4.039901)">
+        <g transform="rotate(267.273452)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-63.292000, -56.627411)">
+        <g transform="rotate(311.819027)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+    <g>
+      <g transform="translate(-5.384954, -84.755785)">
+        <g transform="rotate(356.364603)">
+          <g id="stroke-color-group--f0b414c6" inkscape:groupmode="layer" inkscape:label="8_stroke-color-group--f0b414c6"><ellipse cx="0" cy="0" rx="62.4384" ry="124.8769" style="stroke:#f0b414c6;"/></g></g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
