@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- p5.js Libraries -->
+  <script src="p5.js"></script>
+  <script src="p5.sound.min.js"></script>
+  <title>Animation</title> <!--Update your title here-->
+  <!--Add style to your code within the style tag <style></style>
+  Read the W3Schools CSS Intro for more: https://www.w3schools.com/css/css_intro.asp 
+  -->
+  <style>
+    body {
+      font-family:'Trebuchet MS', sans-serif;
+      margin: 2em;
+      /*padding: 1em;*/
+      color: #4287f5;
+      background-color: #f0f0f0;
+    }
+
+    p{
+      color:#283c5c;
+    }
+
+    .button {    
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #6434eb;
+      color: white;
+      text-decoration: none;
+      border-radius: 15px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      color: #4287f5;/* Insert your own style here */
+    }
+
+    h2 {
+      color:#324ca8;/* Insert your own style here */
+    }
+
+
+    a{
+      color: #4287f5;
+      padding-bottom: 15px;
+    }
+  </style>
+
+<body>
+  
+  <h1>Clock: Audioreactive version</h1>
+
+        <h2>Week 10</h2>
+
+          <script src="week10/sketch.js"></script>
+
+        <p>This sketch extends my earlier Clock assignment. In the original, a new layer of translucent paper is added every hour, and the colors shift from blue to yellow to purple to navy as the day goes on. A small light particle also appears every second.
+        
+        <p>What I added for this assignment:<br>
+          <ul><li>Microphone input using p5.AudioIn</li>
+          <li>Amplitude analysis using p5.Amplitude</li>
+          <li>Three relationships between the sound and the visuals (described below)</li></ul>
+        </p>
+
+        <p>My audio source is the microphone. I used p5.Amplitude and getLevel() to measure how loud the sound is. Since the values are very small, I used map() to turn them into a 0–1 range, constrain() to keep the value from going over 1, and lerp() to smooth it so the animation doesn’t look jittery.</p>
+
+        <p>How the visual responds to the audio <br>
+          <ul><li>The louder the sound, the bigger the paper layers become.</li>
+          <li>The louder the sound, the faster and farther the layers float up and down.</li>
+          <li>The louder the sound, the more sparkles appear on the screen.</li></ul>
+        </p>
+
+        <p>When it is quiet, the clock looks calm and almost still. When someone speaks or makes noise, the layers swell and drift, and the sparkles fill the space. 
+        </p>
+        
+        <p>
+          The original Clock is about time slowly piling up, one layer per hour so it was very subtle. I wanted the microphone to make that quiet, slow piece feel more alive, so I connected every layer to the same sound. When someone speaks, all the layers react together, as if the whole day is responding to a voice at once.
+          <br>I chose loudness (amplitude) because it is the most direct and easy to notice property of sound, and it matches the paper well. A louder sound is a bigger “presence,” so making the paper grow larger felt natural. I also made the layers float faster and farther, because I imagined sound as air moving through thin paper. A soft sound only makes the paper drift gently, while a loud sound makes it sway more strongly.
+          <br>The sparkles are my way of showing the energy of the sound that is not just movement. In the original, one sparkle appears each second like a tiny tick of the clock. In this version, a louder sound fills the screen with more sparkles, so the light feels like it is coming from the voice itself.
+          <br>When the room is quiet, the clock stays calm and almost still, and when someone makes noise, it becomes lively. I wanted the contrast between those two states to be clear, and I wanted the piece to still work as a clock when no one is making any sound.
+        </p>
+
+        <ul>
+        <li><a href="week10/index.html" target="_blank">Link to sketch</a></li>
+        </ul>
+
+      <!-- Optional, share as needed-->
+      <h2>Resources</h2>
+      <ul>
+        <li>Notes from Melody's Audio pdf file</li>
+        <li>This week's LLM Notes</li>
+        <li><a href="https://idmp5.github.io/coding/promise-await/" target="_blank">Promises, async, await</a></li>
+        <li><a href="https://p5js.org/reference/p5.sound/#p5.FFT" target="_blank">p5 Sound Reference</a></li>
+        <li><a href="https://p5js.org/reference/p5.sound/p5.Amplitude/" target="_blank">p5.Amplitude Reference</a></li>
+      </ul>
+      
+
+</body>
+</html>
