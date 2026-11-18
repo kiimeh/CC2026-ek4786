@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="sketch.js"></script>
+  <title>Week 11 Gestural Control</title>
+  <style>
+    body {
+      font-family:'Trebuchet MS', sans-serif;
+      margin: 2em;
+      /*padding: 1em;*/
+      color: #4287f5;
+      background-color: #f0f0f0;
+    }
+
+    p{
+      color:#283c5c;
+    }
+
+    .button {    
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #6434eb;
+      color: white;
+      text-decoration: none;
+      border-radius: 15px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      color: #4287f5;/* Insert your own style here */
+    }
+
+    h2 {
+      color:#324ca8;/* Insert your own style here */
+    }
+
+
+    a{
+      color: #4287f5;
+      padding-bottom: 15px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Gestural Control</h1>
+
+    <p>For this project, I used ml5.js HandPose to turn my index finger into a tool for wiping a foggy window. Since it’s winter and the holiday season is just around the corner, I wanted to create something that feels cold, snowy, and wintery. That’s why I decided to recreate the feeling of drawing on a steamed-up window with your finger.</p>
+
+    <p>The webcam faces me directly, like a mirror, and I flipped the image horizontally so that moving my hand to the right moves the wipe to the right. The camera captures my hand and the background behind it, and that live video is what appears “behind the glass.”</p>
+
+    <p>
+      I decided not to draw the hand skeleton or any control points. Showing them would break the illusion of a real window. The user only sees the video, the fog, and the clear trail where their finger has been.
+    </p>
+
+    <p>
+      The sketch tracks only one point, the tip of the index finger (its x and y position). I limited it to one hand and only use the data when the model’s confidence is above 0.97, which helps prevent random wipes from false detections, but I think it still kind of detects other parts of my fingers but it was just one time I noticed it got detected. 
+    </p>
+
+    <p>
+      When I move my fingertip, the sketch erases a circle in the fog layer at that spot. The fog is a semi-transparent layer on top of the webcam video, which I made with createGraphics() and erase(). I like that it works the way people wipe a real window, so you don’t need any instructions to figure it out. The clear spots stay where my finger has been, so the more I move around, the more of the real world behind the fog shows up.
+    </p>
+
+    <ul>
+      <!-- <li><a href="gesturalControl_revise/index.html" target="_blank">Link to sketch</a></li> -->
+      <li><a href="index.html" target="_blank">Link to sketch</a></li>
+    </ul>
+
+    <!-- Optional, share as needed-->
+      <h2>Resources</h2>
+      <ul>
+        <li>This week's LLM Notes to help me troubleshoot how to add ml5.js library to my vscode</li>
+        <li>The notes from this week</li>
+        <li><a href="https://p5js.org/reference/p5/createGraphics/" target="_blank">createGraphics Reference</a></li>
+        <li><a href="https://www.youtube.com/watch?v=vfNHdVbE-l4" target="_blank">Hand pose detection with ml5.js</a></li>
+      </ul>
+</body>
+
+</html>
